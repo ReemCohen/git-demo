@@ -1,3 +1,2 @@
 git reset
 git revert
-git cherry pick - after reset
