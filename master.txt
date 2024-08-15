@@ -7,3 +7,5 @@ git merge ff
 Git Master Branch
 
 git master
+
+git master - 2
