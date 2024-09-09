@@ -15,3 +15,5 @@ git master - 3
 git master remote
 
 git master - remote web
+
+git master - remote web pull
