@@ -23,3 +23,4 @@ git master - local pull
 git master - remote pull
 
 git cli merge - master
+git 3way merge - branch
