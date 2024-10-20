@@ -21,3 +21,5 @@ git master - remote web pull
 git master - local pull
 
 git master - remote pull
+
+git cli merge - master
