@@ -28,3 +28,6 @@ git 3way merge - branch
 git merge cli - conflicts
 
 git merge abort - master
+git merge abort - master
+
+git rebase - master branch
