@@ -31,3 +31,5 @@ git merge abort - master
 git merge abort - master
 
 git rebase - master branch
+
+git revert
