@@ -33,3 +33,4 @@ git merge abort - master
 git rebase - master branch
 
 git revert
+git merge cli - conflicts
