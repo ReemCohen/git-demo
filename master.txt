@@ -26,3 +26,5 @@ git cli merge - master
 git 3way merge - branch
 
 git merge cli - conflicts
+
+git merge abort - master
