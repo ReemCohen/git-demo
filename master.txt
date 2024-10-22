@@ -34,3 +34,5 @@ git rebase - master branch
 
 git revert
 git merge cli - conflicts
+
+UPDATE MASTER FILE CHERRY PICK
