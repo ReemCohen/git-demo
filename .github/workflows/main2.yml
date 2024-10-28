@@ -1,0 +1,18 @@
+name: Check PR Title for "Feature"
+
+on:
+  pull_request:
+    types: [opened, edited]
+
+jobs:
+  check_pr_title:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if PR title contains "Feature"
+        id: check_pr_title
+        run: |
+          if [[ "${{ github.event.pull_request.title }}" != *"Feature"* ]]; then
+            echo "PR title does not contain 'Feature'"
+            exit 1
+          fi
+        shell: bash        
